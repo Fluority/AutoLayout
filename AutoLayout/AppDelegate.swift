@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AutoLayout
 //
-//  Created by liene.krista.neimane on 12/04/2023.
+//  Created by Arkadijs Makarenko on 05/04/2023.
 //
 
 import UIKit
